@@ -1,0 +1,4 @@
+
+enum RTCClientRole {
+  Anchor, Audience
+}
